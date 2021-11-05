@@ -1,0 +1,22 @@
+body {
+  /* background: fixed linear-gradient(to bottom right, rgb(223, 209, 22), white); */
+  /* background: linear-gradient(to bottom, rgb(255, 196, 0), white); */
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(161, 113, 9)),
+    url(git-wall.png);
+}
+
+p {
+  text-align: center;
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.button-style {
+  margin-left: 47%;
+  margin-right: 47%;
+  text-align: center;
+  background-color: rgb(226, 147, 43);
+  height: 40px;
+  width: 100px;
+}
